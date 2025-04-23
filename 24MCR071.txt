@@ -3,3 +3,4 @@ Reg No		: 24MCR071
 Dept		: MCA
 Favt Subject	: Java
 Mobile Model	: Realme p1
+College name	: Kongu Engineeing College 
